@@ -1,3 +1,6 @@
+###xploración creativa de arte, tecnología y medios digitales interactivos.
+```
+
 # multimedial
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -67,3 +70,6 @@ MULTIMEDIAL
 
 </html>
 <!-- Fin del documento HTML -->
+```
+
+
